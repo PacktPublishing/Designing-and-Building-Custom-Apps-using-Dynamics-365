@@ -1,0 +1,12 @@
+
+<entities xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <entity name="account" displayname="Account">
+    <records>
+      <record id="13331b21-2081-e711-96c7-00155d380100">
+        <field name="accountid" value="13331b21-2081-e711-96c7-00155d380100" />
+        <field name="name" value="SpaceFlight365" />
+      </record>
+    </records>
+    <m2mrelationships />
+  </entity>
+</entities>

@@ -1,0 +1,76 @@
+17:48:31	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+17:48:31	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+17:48:31	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+17:48:31	
+17:48:31	Packing C:\SF365\Solution\package to C:\Users\Administrator\AppData\Local\Temp\tmpD7D0.tmp
+17:48:31	
+17:48:31	Processing Component: Entities
+17:48:31	 - Account
+17:48:31	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\Entity.xml
+17:48:31	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+17:48:31	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+17:48:31	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\RibbonDiff.xml
+17:48:31	Processing Component: Roles
+18:33:41	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+18:33:41	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+18:33:41	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+18:33:41	
+18:33:41	Packing C:\SF365\Solution\package to C:\Users\Administrator\AppData\Local\Temp\tmp3152.tmp
+18:33:41	
+18:33:41	Processing Component: Entities
+18:33:41	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+18:33:41	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+18:33:41	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\RibbonDiff.xml
+18:33:41	Processing Component: Roles
+18:33:41	Processing Component: Workflows
+18:33:41	Processing Component: FieldSecurityProfiles
+18:33:41	Processing Component: Templates
+18:33:41	Processing Component: EntityMaps
+18:33:41	Processing Component: EntityRelationships
+18:33:41	Reading: C:\SF365\Solution\spkl\..\package\Other\Relationships.xml
+18:38:20	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+18:38:20	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+18:38:20	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+18:38:20	
+18:38:20	Packing C:\SF365\Solution\package to C:\Users\Administrator\AppData\Local\Temp\tmp757C.tmp
+18:38:20	
+18:38:20	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+18:38:20	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+18:38:20	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\RibbonDiff.xml
+18:39:44	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+18:39:44	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+18:39:44	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+18:39:45	
+18:39:45	Packing C:\SF365\Solution\package to C:\Users\Administrator\AppData\Local\Temp\tmpBF61.tmp
+18:39:45	
+18:39:45	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+18:39:45	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\RibbonDiff.xml
+18:39:45	Processing Component: Roles
+18:39:45	Processing Component: Workflows
+18:39:45	Processing Component: FieldSecurityProfiles
+18:39:45	Processing Component: Templates
+18:39:45	Processing Component: EntityMaps
+18:39:45	Processing Component: EntityRelationships
+18:39:45	Reading: C:\SF365\Solution\spkl\..\package\Other\Relationships.xml
+18:39:45	Processing Component: optionsets
+18:40:36	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+18:40:36	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+18:40:36	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+18:40:36	
+18:40:36	Packing C:\SF365\Solution\package to C:\Users\Administrator\AppData\Local\Temp\tmp888D.tmp
+18:40:36	
+18:40:36	Processing Component: Entities
+18:40:36	 - Account
+18:40:36	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\Entity.xml
+18:40:36	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+18:40:36	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+18:40:36	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\RibbonDiff.xml
+18:41:58	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+18:41:58	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+18:41:58	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+18:41:58	
+18:41:58	Packing C:\SF365\Solution\package to C:\Users\Administrator\AppData\Local\Temp\tmpC8DD.tmp
+18:41:58	
+18:44:54	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+18:44:54	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+18:44:54	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />

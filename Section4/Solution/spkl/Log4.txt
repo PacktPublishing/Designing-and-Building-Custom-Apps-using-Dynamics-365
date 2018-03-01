@@ -1,0 +1,9 @@
+17:29:42	Reading mapping directives...
+17:29:42	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+17:29:42	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+17:29:42	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+17:29:42	Read-only files will be over-written or deleted.
+17:29:42	
+17:29:42	Extracting C:\Users\Administrator\AppData\Local\Temp\tmp9F7C.tmp to C:\SF365\Solution\package
+17:29:42	
+17:29:42	 - Account

@@ -1,0 +1,27 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "noEmitOnError": true,
+        "removeComments": false,
+        "sourceMap": true,
+        "declaration": false,
+        "target": "es5",
+        "types": [],
+        "lib": [ "dom", "es5", "es2015", "scripthost", "es2015.iterable" ],
+        "outFile": "out\\common.js",
+        "outDir": "out",
+        "sourceRoot": "src"
+    },
+    "compileOnSave": true,
+    "typeAcquisition": {
+        "enable": false
+    },
+    "exclude": [
+        "node_modules",
+        "wwwroot",
+        "*.d.ts"
+    ],
+    "include": [
+        "Common/src/*.ts"
+    ]
+}

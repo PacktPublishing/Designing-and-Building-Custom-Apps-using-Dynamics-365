@@ -1,0 +1,10 @@
+17:28:47	Unpacking solution
+17:28:47	Searching for packager config in 'C:\SF365\Solution\spkl\..'
+17:28:48	Using Config 'C:\SF365\Solution\spkl\..'
+17:29:21	Unpacking solution
+17:29:21	Searching for packager config in 'C:\SF365\Solution\spkl\..'
+17:29:21	Using Config 'C:\SF365\Solution\spkl\..'
+17:29:41	Target C:\SF365\packages\spkl.1.0.13\tools
+17:29:41	Map xml created at 'C:\SF365\packages\Microsoft.CrmSdk.CoreTools.8.2.0.5\content\bin\coretools\packager_map.xml'
+17:29:41	Running C:\SF365\packages\spkl.1.0.13\tools\..\..\Microsoft.CrmSdk.CoreTools.8.2.0.5\content\bin\coretools\SolutionPackager.exe /action:Extract /zipfile:"C:\Users\Administrator\AppData\Local\Temp\tmp9F7C.tmp" /folder:"C:\SF365\Solution\spkl\..\package" /packagetype:Unmanaged /allowWrite:Yes /allowDelete:Yes /clobber /errorlevel:Verbose /nologo /log:packagerlog.txt /map:packager_map.xml
+17:29:43	Processed 1 config(s)

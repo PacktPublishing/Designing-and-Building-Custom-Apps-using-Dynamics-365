@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        body {
+            font-family: "SegoeUI", "Segoe UI";
+        }
+
+        .seat {
+            display: inline-block;
+        }
+
+        .isle {
+            width: 75px;
+            height: 100px;
+            display: inline-block;
+        }
+
+        .passengers {
+            width: 75px;
+            height: 75px;
+        }
+
+        .passenger-holder {
+            background-color: #315FA2;
+            height: 75px;
+            width: 75px;
+            overflow: hidden;
+        }
+
+        .passenger {
+            border: solid 3px #666;
+            background-color: #ffffff;
+            width: 70px;
+        }
+
+        .unassigned-passengers {
+            background-color: #F8F7F6;
+            width: 100%;
+            height: 100px;
+        }
+    </style>
+    <link href="../css/jquery-ui.structure.css" rel="stylesheet" />
+    <link href="../css/jquery-ui.theme.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <div data-bind="with:Seats">
+            <div class="seat-row" data-bind="foreach: Rows">
+                <div data-bind="foreach: Seats ">
+                    <!-- ko if: $data.seatclass!='_' -->
+                    <div class="seat">
+
+                        <span data-bind="text: name"></span>
+                        <div class="passenger-holder" data-bind="
+                             sortable:{
+                                data:passengers,
+                                allowDrop: $root.isSeatUnoccupied,
+                                afterMove: $root.afterAssign()
+                             }">
+                            <div class="passenger" data-bind="text: sf365_fullname"></div>
+                            
+                        </div>
+
+                    </div>
+                    <!-- /ko -->
+                    <!-- ko if: $data.seatclass=='_' -->
+                    <div class="isle"></div>
+                    <!-- /ko -->
+                </div>
+            </div>
+        </div>
+
+        <div id="extra">
+            <div>Unassigned Passengers</div>
+            <div class="unassigned-passengers" data-bind="
+                 sortable:{
+                 data: Passengers, 
+                 afterMove: $root.afterUnAssign()
+                 }">
+                <span class="passenger" data-bind="text: sf365_fullname"></span>
+            </div>
+        </div>
+    </div>
+
+        <script src="../../ClientGlobalContext.js.aspx" type="text/javascript"></script>
+        <script src="../js/ClientUILibs.js"></script>
+        <script src="../js/ClientUI.js"></script>
+        <script language="javascript">
+
+            function touchHandler(event) {
+                var touch = event.changedTouches[0];
+
+                var simulatedEvent = document.createEvent("MouseEvent");
+                simulatedEvent.initMouseEvent({
+                    touchstart: "mousedown",
+                    touchmove: "mousemove",
+                    touchend: "mouseup"
+                }[event.type], true, true, window, 1,
+                    touch.screenX, touch.screenY,
+                    touch.clientX, touch.clientY, false,
+                    false, false, false, 0, null);
+
+                touch.target.dispatchEvent(simulatedEvent);
+                event.preventDefault();
+            }
+
+            function init() {
+                document.addEventListener("touchstart", touchHandler, true);
+                document.addEventListener("touchmove", touchHandler, true);
+                document.addEventListener("touchend", touchHandler, true);
+                document.addEventListener("touchcancel", touchHandler, true);
+            }
+            init();
+
+
+            sf365.Views.SelectSeatsView.init();
+
+        </script>
+
+</body>
+</html >

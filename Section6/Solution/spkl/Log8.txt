@@ -1,0 +1,35 @@
+17:40:36	No change: C:\SF365\Solution\spkl\..\package\Entities\Account\RibbonDiff.xml
+17:40:36	No change: C:\SF365\Solution\spkl\..\package\Entities\Account\Entity.xml
+17:40:36	Processing Component: Roles
+17:40:36	Processing Component: Workflows
+17:40:36	Processing Component: FieldSecurityProfiles
+17:40:36	Processing Component: Templates
+18:38:20	Processing Component: Roles
+18:38:20	Processing Component: Workflows
+18:38:20	Processing Component: FieldSecurityProfiles
+18:38:20	Processing Component: Templates
+18:38:20	Processing Component: EntityMaps
+18:38:20	Processing Component: EntityRelationships
+18:38:20	Reading: C:\SF365\Solution\spkl\..\package\Other\Relationships.xml
+18:38:20	Processing Component: optionsets
+18:38:20	Processing Component: WebResources
+18:38:20	Reading: C:\SF365\Solution\spkl\..\package\WebResources\sf365_\js\checkin.js.data.xml
+18:38:20	 - sf365_/js/checkin.js
+18:38:20	Mapping: C:\SF365\Solution\package\WebResources\sf365_\js\checkin.js to C:\SF365\Webresources\Webresources\sf365_\js\checkin.js
+18:38:20	Reading: C:\SF365\Webresources\Webresources\sf365_\js\checkin.js
+18:38:20	Processing Component: SolutionPluginAssemblies
+18:38:20	Reading: C:\SF365\Solution\spkl\..\package\PluginAssemblies\SF365Plugins-84133DE7-D289-E711-96D5-00155D380101\SF365Plugins.dll.data.xml
+18:38:21	 - SF365.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0c18845bd1a74faa
+18:38:21	Mapping: C:\SF365\Solution\package\PluginAssemblies\SF365Plugins-84133DE7-D289-E711-96D5-00155D380101\SF365Plugins.dll to C:\SF365\Plugins\bin\Debug\SF365Plugins.dll
+18:38:21	Reading: C:\SF365\Plugins\bin\Debug\SF365Plugins.dll
+18:38:21	Processing Component: SdkMessageProcessingSteps
+18:44:55	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+18:44:55	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+18:44:55	Reading: C:\SF365\Solution\spkl\..\package\Entities\Account\RibbonDiff.xml
+18:44:55	Processing Component: Roles
+18:44:55	 - sf365_/js/checkin.js
+18:44:55	Mapping: C:\SF365\Solution\package\WebResources\sf365_\js\checkin.js to C:\SF365\Webresources\Webresources\sf365_\js\checkin.js
+18:44:55	Reading: C:\SF365\Webresources\Webresources\sf365_\js\checkin.js
+18:44:55	Processing Component: SolutionPluginAssemblies
+18:44:55	Reading: C:\SF365\Solution\spkl\..\package\PluginAssemblies\SF365Plugins-84133DE7-D289-E711-96D5-00155D380101\SF365Plugins.dll.data.xml
+18:44:55	 - SF365.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0c18845bd1a74faa

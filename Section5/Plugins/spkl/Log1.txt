@@ -1,0 +1,107 @@
+21:19:47	Deploying Plugins
+21:19:47	Searching for plugin config in 'C:\SF365\Plugins\spkl\..'
+21:19:48	Using Config 'C:\SF365\Plugins\spkl\..'
+21:19:48	Checking assembly 'SF365.Plugins.dll' for plugins
+21:19:48	2 plugin(s) found!
+21:19:48	Processed 1 config(s)
+21:20:19	Deploying Plugins
+21:20:19	Searching for plugin config in 'C:\SF365\Plugins\spkl\..'
+21:20:19	Using Config 'C:\SF365\Plugins\spkl\..'
+21:20:19	Checking assembly 'SF365.Plugins.dll' for plugins
+21:20:19	2 plugin(s) found!
+21:20:58	Registering Plugin 'SF365.Plugins' from 'C:\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+21:21:00	Registering Type 'SF365.Plugins.AccountPlugin'
+21:21:00	Registering Step 'Pre-Update Account'
+21:21:00	Registering Image 'PreImage'
+21:21:01	Processed 1 config(s)
+12:28:01	Deploying Plugins
+12:28:01	Searching for plugin config in 'C:\SF365\Plugins\spkl\..'
+12:28:01	Using Config 'C:\SF365\Plugins\spkl\..'
+12:28:01	Checking assembly 'Microsoft.QualityTools.Testing.Fakes.dll' for plugins
+12:28:01	Checking assembly 'SF365Plugins.dll' for plugins
+12:28:01	4 plugin(s) found!
+12:28:04	Updating Plugin 'SF365Plugins' from 'C:\SF365\Plugins\bin\Debug\SF365Plugins.dll'
+12:28:10	Updating Type 'SF365.Plugins.AccountPlugin'
+12:28:12	Updating Step 'Pre-Update Account'
+12:28:13	Updating Image 'PreImage'
+12:28:15	Updating Type 'SF365.Plugins.ExchangeRateActionPlugin'
+12:28:16	Registering Step 'sf365_updateexchangerate'
+12:28:17	Processed 1 config(s)
+12:41:46	Deploying Plugins
+12:41:46	Searching for plugin config in 'C:\SF365\Plugins\spkl\..'
+12:41:46	Using Config 'C:\SF365\Plugins\spkl\..'
+12:41:46	Checking assembly 'Microsoft.QualityTools.Testing.Fakes.dll' for plugins
+12:41:46	Checking assembly 'SF365Plugins.dll' for plugins
+12:41:46	4 plugin(s) found!
+12:41:47	Updating Plugin 'SF365Plugins' from 'C:\SF365\Plugins\bin\Debug\SF365Plugins.dll'
+12:41:47	Updating Type 'SF365.Plugins.AccountPlugin'
+12:41:48	Updating Step 'Pre-Update Account'
+12:41:48	Updating Image 'PreImage'
+12:41:48	Updating Type 'SF365.Plugins.ExchangeRateActionPlugin'
+12:41:48	Registering Step 'sf365_updateexchangerate'
+12:41:49	Processed 1 config(s)
+14:12:53	Deploying Plugins
+14:12:53	Searching for plugin config in 'C:\SF365\Plugins\spkl\..'
+14:12:53	Using Config 'C:\SF365\Plugins\spkl\..'
+14:12:53	Checking assembly 'Microsoft.QualityTools.Testing.Fakes.dll' for plugins
+14:12:53	Checking assembly 'SF365Plugins.dll' for plugins
+14:12:53	4 plugin(s) found!
+14:12:55	Updating Plugin 'SF365Plugins' from 'C:\SF365\Plugins\bin\Debug\SF365Plugins.dll'
+14:12:55	Updating Type 'SF365.Plugins.AccountPlugin'
+14:12:56	Updating Step 'Pre-Update Account'
+14:12:57	Updating Image 'PreImage'
+14:12:57	Updating Type 'SF365.Plugins.ExchangeRateActionPlugin'
+14:12:57	Registering Step 'sf365_updateexchangerate'
+14:12:57	Processed 1 config(s)
+14:14:16	Deploying Plugins
+14:14:16	Searching for plugin config in 'C:\SF365\Plugins\spkl\..'
+14:14:16	Using Config 'C:\SF365\Plugins\spkl\..'
+14:14:16	Checking assembly 'Microsoft.QualityTools.Testing.Fakes.dll' for plugins
+14:14:16	Checking assembly 'SF365Plugins.dll' for plugins
+14:14:16	4 plugin(s) found!
+14:14:17	Updating Plugin 'SF365Plugins' from 'C:\SF365\Plugins\bin\Debug\SF365Plugins.dll'
+14:14:17	Updating Type 'SF365.Plugins.AccountPlugin'
+14:14:18	Updating Step 'Pre-Update Account'
+14:14:18	Updating Image 'PreImage'
+14:14:18	Updating Type 'SF365.Plugins.ExchangeRateActionPlugin'
+14:14:18	Registering Step 'sf365_updateexchangerate'
+14:14:18	Processed 1 config(s)
+14:17:02	Deploying Plugins
+14:17:02	Searching for plugin config in 'C:\SF365\Plugins\spkl\..'
+14:17:02	Using Config 'C:\SF365\Plugins\spkl\..'
+14:17:02	Checking assembly 'Microsoft.QualityTools.Testing.Fakes.dll' for plugins
+14:17:02	Checking assembly 'SF365Plugins.dll' for plugins
+14:17:02	4 plugin(s) found!
+14:17:03	Updating Plugin 'SF365Plugins' from 'C:\SF365\Plugins\bin\Debug\SF365Plugins.dll'
+14:17:04	Updating Type 'SF365.Plugins.AccountPlugin'
+14:17:04	Updating Step 'Pre-Update Account'
+14:17:04	Updating Image 'PreImage'
+14:17:04	Updating Type 'SF365.Plugins.ExchangeRateActionPlugin'
+14:17:05	Registering Step 'sf365_updateexchangerate'
+14:17:05	Processed 1 config(s)
+16:54:58	Deploying Plugins
+16:54:59	Searching for plugin config in 'C:\SF365\Plugins\spkl\..'
+16:54:59	Using Config 'C:\SF365\Plugins\spkl\..'
+16:54:59	Checking assembly 'Microsoft.QualityTools.Testing.Fakes.dll' for plugins
+16:54:59	Checking assembly 'SF365Plugins.dll' for plugins
+16:54:59	4 plugin(s) found!
+16:55:00	Updating Plugin 'SF365Plugins' from 'C:\SF365\Plugins\bin\Debug\SF365Plugins.dll'
+16:55:01	Updating Type 'SF365.Plugins.AccountPlugin'
+16:55:02	Registering Step 'Pre-Update Account'
+16:55:02	Registering Image 'PreImage'
+16:55:03	Updating Type 'SF365.Plugins.ExchangeRateActionPlugin'
+16:55:03	Registering Step 'sf365_updateexchangerate'
+16:55:03	Processed 1 config(s)
+17:01:14	Deploying Plugins
+17:01:14	Searching for plugin config in 'C:\SF365\Plugins\spkl\..'
+17:01:14	Using Config 'C:\SF365\Plugins\spkl\..'
+17:01:14	Checking assembly 'Microsoft.QualityTools.Testing.Fakes.dll' for plugins
+17:01:14	Checking assembly 'SF365Plugins.dll' for plugins
+17:01:14	4 plugin(s) found!
+17:01:16	Updating Plugin 'SF365Plugins' from 'C:\SF365\Plugins\bin\Debug\SF365Plugins.dll'
+17:01:17	Updating Type 'SF365.Plugins.AccountPlugin'
+17:01:20	Updating Step 'Pre-Update Account'
+17:01:20	Updating Image 'PreImage'
+17:01:20	Updating Type 'SF365.Plugins.ExchangeRateActionPlugin'
+17:01:21	Registering Step 'sf365_updateexchangerate'
+17:01:21	Processed 1 config(s)

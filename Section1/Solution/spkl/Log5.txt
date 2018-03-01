@@ -1,0 +1,16 @@
+17:29:42	Processing Component: Workflows
+17:29:42	Processing Component: FieldSecurityProfiles
+17:29:42	Processing Component: Templates
+17:29:42	Processing Component: EntityMaps
+17:29:43	Processing Component: EntityRelationships
+17:29:43	Creating: C:\SF365\Solution\spkl\..\package\Other\Relationships.xml
+17:29:43	Processing Component: optionsets
+17:29:43	Processing Component: WebResources
+17:29:43	 - sf365_/js/checkin.js
+17:29:43	Creating: C:\SF365\Solution\spkl\..\package\WebResources\sf365_\js\checkin.js.data.xml
+17:29:43	Skipping 'C:\SF365\Solution\spkl\..\package\WebResources\sf365_\js\checkin.js' as it matches a mapping directive
+17:29:43	Processing Component: SolutionPluginAssemblies
+17:29:43	 - SF365.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0c18845bd1a74faa
+17:29:43	Creating: C:\SF365\Solution\spkl\..\package\PluginAssemblies/SF365Plugins-84133DE7-D289-E711-96D5-00155D380101/SF365Plugins.dll.data.xml
+17:29:43	Solution may not repack due to missing mapped file for: C:\SF365\Solution\spkl\..\package\PluginAssemblies/SF365Plugins-84133DE7-D289-E711-96D5-00155D380101/SF365Plugins.dll
+17:29:43	Skipping 'C:\SF365\Solution\spkl\..\package\PluginAssemblies/SF365Plugins-84133DE7-D289-E711-96D5-00155D380101/SF365Plugins.dll' as it matches a mapping directive

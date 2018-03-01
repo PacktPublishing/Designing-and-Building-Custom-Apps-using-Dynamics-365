@@ -1,0 +1,6 @@
+17:29:42	Processing Component: Entities
+17:29:42	Creating: C:\SF365\Solution\spkl\..\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+17:29:42	Creating: C:\SF365\Solution\spkl\..\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+17:29:42	Creating: C:\SF365\Solution\spkl\..\package\Entities\Account\RibbonDiff.xml
+17:29:42	Creating: C:\SF365\Solution\spkl\..\package\Entities\Account\Entity.xml
+17:29:42	Processing Component: Roles

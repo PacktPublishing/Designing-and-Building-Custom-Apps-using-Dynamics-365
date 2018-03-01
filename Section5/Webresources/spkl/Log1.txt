@@ -1,0 +1,90 @@
+17:55:35	Deploying WebResources
+17:55:37	Using Config 'C:\SF365\Webresources'
+17:55:44	Updating Webresource 'sf365_\js\clienthooks.js' -> 'sf365_/js/clienthooks.js'
+17:55:53	Adding to solution 'SpaceFlight365'
+17:56:04	Deployed 1 webresource(s)
+17:56:04	Publishing 1 webresources...
+17:56:10	Publish complete.
+17:56:10	Processed 1 section(s)
+17:56:10	Processed 1 config(s)
+10:38:53	Deploying WebResources
+10:38:54	Using Config 'C:\SF365\Webresources'
+10:42:32	Deploying WebResources
+10:42:33	Using Config 'C:\SF365\Webresources'
+10:42:36	Updating Webresource 'sf365_\js\clienthooks.js' -> 'sf365_/js/clienthooks.js'
+10:42:40	Adding to solution 'SpaceFlight365'
+10:42:43	Updating Webresource 'sf365_\imgs\delayed.svg' -> 'sf365_/imgs/delayed.svg'
+10:42:43	Adding to solution 'SpaceFlight365'
+10:42:46	Deployed 2 webresource(s)
+10:42:46	Publishing 2 webresources...
+10:42:53	Publish complete.
+10:42:53	Processed 1 section(s)
+10:42:53	Processed 1 config(s)
+10:43:54	Deploying WebResources
+10:43:55	Using Config 'C:\SF365\Webresources'
+10:43:56	Updating Webresource 'sf365_\js\clienthooks.js' -> 'sf365_/js/clienthooks.js'
+10:43:58	Adding to solution 'SpaceFlight365'
+10:43:59	Creating Webresource 'sf365_\imgs\delayed.svg' -> 'sf365_/imgs/delayed.svg'
+10:43:59	Adding to solution 'SpaceFlight365'
+10:44:00	Deployed 2 webresource(s)
+10:44:00	Publishing 2 webresources...
+10:44:03	Publish complete.
+10:44:03	Processed 1 section(s)
+10:44:03	Processed 1 config(s)
+11:11:14	Deploying WebResources
+11:11:15	Using Config 'C:\SF365\Webresources'
+11:11:17	Updating Webresource 'sf365_\js\clienthooks.js' -> 'sf365_/js/clienthooks.js'
+11:11:19	Adding to solution 'SpaceFlight365'
+11:11:21	Updating Webresource 'sf365_\imgs\delayed.svg' -> 'sf365_/imgs/delayed.svg'
+11:11:22	Adding to solution 'SpaceFlight365'
+11:11:22	Deployed 2 webresource(s)
+11:11:22	Publishing 2 webresources...
+11:11:26	Publish complete.
+11:11:26	Processed 1 section(s)
+11:11:26	Processed 1 config(s)
+11:15:13	Deploying WebResources
+11:15:13	Using Config 'C:\SF365\Webresources'
+11:15:16	Updating Webresource 'sf365_\js\clienthooks.js' -> 'sf365_/js/clienthooks.js'
+11:15:17	Adding to solution 'SpaceFlight365'
+11:15:18	Updating Webresource 'sf365_\imgs\delayed.svg' -> 'sf365_/imgs/delayed.svg'
+11:15:19	Adding to solution 'SpaceFlight365'
+11:15:19	Deployed 2 webresource(s)
+11:15:19	Publishing 2 webresources...
+11:15:23	Publish complete.
+11:15:23	Processed 1 section(s)
+11:15:23	Processed 1 config(s)
+11:18:47	Deploying WebResources
+11:18:47	Using Config 'C:\SF365\Webresources'
+11:18:49	Updating Webresource 'sf365_\js\clienthooks.js' -> 'sf365_/js/clienthooks.js'
+11:18:50	Adding to solution 'SpaceFlight365'
+11:18:52	Updating Webresource 'sf365_\imgs\delayed.svg' -> 'sf365_/imgs/delayed.svg'
+11:18:53	Adding to solution 'SpaceFlight365'
+11:18:53	Deployed 2 webresource(s)
+11:18:53	Publishing 2 webresources...
+11:18:57	Publish complete.
+11:18:57	Processed 1 section(s)
+11:18:57	Processed 1 config(s)
+11:19:29	Deploying WebResources
+11:19:29	Using Config 'C:\SF365\Webresources'
+11:19:31	Updating Webresource 'sf365_\js\clienthooks.js' -> 'sf365_/js/clienthooks.js'
+11:19:32	Adding to solution 'SpaceFlight365'
+11:19:34	Updating Webresource 'sf365_\imgs\delayed.svg' -> 'sf365_/imgs/delayed.svg'
+11:19:35	Adding to solution 'SpaceFlight365'
+11:19:36	Deployed 2 webresource(s)
+11:19:36	Publishing 2 webresources...
+11:19:40	Publish complete.
+11:19:40	Processed 1 section(s)
+11:19:40	Processed 1 config(s)
+11:21:51	Deploying WebResources
+11:21:52	Using Config 'C:\SF365\Webresources'
+11:21:54	Updating Webresource 'sf365_\js\clienthooks.js' -> 'sf365_/js/clienthooks.js'
+11:21:55	Adding to solution 'SpaceFlight365'
+11:21:56	Updating Webresource 'sf365_\imgs\delayed.svg' -> 'sf365_/imgs/delayed.svg'
+11:21:57	Adding to solution 'SpaceFlight365'
+11:21:58	Creating Webresource 'sf365_\imgs\scheduled.svg' -> 'sf365_/imgs/scheduled.svg'
+11:21:59	Adding to solution 'SpaceFlight365'
+11:21:59	Deployed 3 webresource(s)
+11:21:59	Publishing 3 webresources...
+11:22:03	Publish complete.
+11:22:03	Processed 1 section(s)
+11:22:03	Processed 1 config(s)

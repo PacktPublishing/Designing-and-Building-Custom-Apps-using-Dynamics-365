@@ -1,0 +1,16 @@
+21:19:47	Deploying Plugins
+21:19:47	Searching for plugin config in 'C:\SF365\Plugins\spkl\..'
+21:19:48	Using Config 'C:\SF365\Plugins\spkl\..'
+21:19:48	Checking assembly 'SF365.Plugins.dll' for plugins
+21:19:48	2 plugin(s) found!
+21:19:48	Processed 1 config(s)
+21:20:19	Deploying Plugins
+21:20:19	Searching for plugin config in 'C:\SF365\Plugins\spkl\..'
+21:20:19	Using Config 'C:\SF365\Plugins\spkl\..'
+21:20:19	Checking assembly 'SF365.Plugins.dll' for plugins
+21:20:19	2 plugin(s) found!
+21:20:58	Registering Plugin 'SF365.Plugins' from 'C:\SF365\Plugins\bin\Debug\SF365.Plugins.dll'
+21:21:00	Registering Type 'SF365.Plugins.AccountPlugin'
+21:21:00	Registering Step 'Pre-Update Account'
+21:21:00	Registering Image 'PreImage'
+21:21:01	Processed 1 config(s)
