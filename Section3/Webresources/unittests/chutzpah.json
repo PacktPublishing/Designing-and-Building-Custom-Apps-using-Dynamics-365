@@ -1,0 +1,28 @@
+﻿{
+  "Framework": "qunit",
+  "Compile": { "Mode": "External" },
+  "Server": { "Enabled": false },
+  "RootReferencePathMode": "SettingsFileDirectory",
+  "TestHarnessReferenceMode": "AMD",
+  "CodeCoverageExecutionMode": "Never",
+  "EnableTracing": true,
+  "TraceFilePath": "test.txt",
+  "References": [
+
+    {
+      "Path": "../node_modules/knockout/build/output/knockout-latest.debug.js"
+    },
+    {
+      "Path": "../node_modules/requirejs/require.js"
+    },
+    {
+      "Path": "../Webresources/sf365_/js/checkin.js"
+    }
+  ],
+  "Tests": [
+    {
+      "Includes": [ "**.ts" ],
+      "Excludes": [ "**.d.ts" ]
+    }
+  ]
+}
