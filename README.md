@@ -8,6 +8,11 @@ Learn about base currencies, to ensure that your custom apps do not run into any
 The new Xrm client API features of the Unified Client provide exciting new ways of extending your forms and grids which are demonstrated using the sample application being built. 
 You'll then learn to extend your Microsoft Dynamics 365 Customer Engagement business applications using HTML, TypeScript, and CSS using KnockoutJS via the MVVM design pattern so that your logic can be unit tested and deployed with easy and effortless repeatability. This course also covers the considerations for mobile touch interfaces so that your feature rich extensions will work on all devices and formats.
 
+
+
+<H2>What You Will Learn</H2>
+<DIV class=book-info-will-learn-text>
+<UL>
 * Implement and Unit Test complex business rules using C# Plugins & Workflows, TypeScript and the WebAPI
 *Extend the user interface in a fully supported way using the Form XRM client-side API, custom Command Bar buttons and Editable Grid business logic
 *Develop custom user interface components that will run both on the web and mobile/tablet clients using TypeScript with the MVVM pattern and KnockoutJS
@@ -18,20 +23,10 @@ You'll then learn to extend your Microsoft Dynamics 365 Customer Engagement busi
 *Create Scheduled Jobs to perform repeating tasks
 *Integrate with external Web Services using Web-Hooks and Virtual Entities
 
-<H2>What You Will Learn</H2>
-<DIV class=book-info-will-learn-text>
-<UL>
-<LI>Estimate, quote, and contract work 
-<LI>Plan and assign resources&nbsp; 
-<LI>Enable team collaboration&nbsp; 
-<LI>Capture time, expense, and progress data to get real-time insights 
-<LI>Create project tracking using WBS 
-<LI>Automate the generated invoice </LI></UL></DIV>
-
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This course is aimed at developers who are already familiar with Customizing Dynamics 365 Customer Engagement, and who want to learn the best practices used when creating advanced extensions.
+familiaraty with Customizing Dynamics 365 Customer Engagement, and who want to learn the best practices used when creating advanced extensions.
 ### Technical Requirements
 This course has the following software requirements:<br/>
 o	Microsoft Windows Server
