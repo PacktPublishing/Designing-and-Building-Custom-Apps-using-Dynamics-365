@@ -14,12 +14,19 @@ You'll then learn to extend your Microsoft Dynamics 365 Customer Engagement busi
 <DIV class=book-info-will-learn-text>
 <UL>
 •	Implement and Unit Test complex business rules using C# Plugins & Workflows, TypeScript and the WebAPI
+  
 •	Extend the user interface in a fully supported way using the Form XRM client-side API, custom Command Bar buttons and Editable Grid business logic
+
 •	Develop custom user interface components that will run both on the web and mobile/tablet clients using TypeScript with the MVVM pattern and KnockoutJS
+
 •	Automatically unit test your code using the Visual Studio Testing Tools, QUnit and Chutzpah
+
 •	Use Visual Studio Team Services to version control your code & metadata as well as implement continuous integration with the help from NuGet, npm and Gulp
+
 •	Structure your solutions to effectively deploy version updates and patches
+
 •	Create Scheduled Jobs to perform repeating tasks
+
 •	Integrate with external Web Services using Web-Hooks and Virtual Entities
 
 
@@ -30,14 +37,23 @@ familiaraty with Customizing Dynamics 365 Customer Engagement, and who want to l
 ### Technical Requirements
 This course has the following software requirements:<br/>
 •	Microsoft Windows Server
+
 •	A Microsoft Windows ServerActive Directory infrastructure
+
 •	An Internet Information Services (IIS) website
+
 •	Claims-based security token service (required for Internet-facing deployments)
+
 •	Microsoft SQL Server
+
 •	Microsoft SQL Server Reporting Services
+
 •	Microsoft Exchange Server or access to a POP3-compliant email server (required for email tracking)
+
 •	SharePoint Server (required for document management)
+
 •	Supported device, Microsoft Dynamics 365 app, or web browser, such as later versions of Internet Explorer or the latest versions of Apple Safari, Google Chrome and Mozilla Firefox
+
 •	Microsoft Office for Microsoft Dynamics 365 for Outlook and other Office integration features
 
 
